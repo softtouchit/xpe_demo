@@ -1,0 +1,31 @@
+<ms domain="msdemo" >
+
+   <topic name="http" type="http">
+       <pub src="req/ws" protocol="http" transport="ws" handler="echo" />
+   </topic>
+   
+   <handler name="echo" >
+       <script src="echo.js" />
+   </handler>
+   
+   
+   <topic name="batch" type="http">
+       <pub src="batch/ws" protocol="http" transport="ws" handler="batch" />
+   </topic>
+   
+   <handler name="batch" >
+       <script src="batch.js" />
+   </handler>
+   
+   <topic name="test"  fields="id" >
+       <pub protocol="json" />
+       <sub dest="ws/tests" protocol="dblog" transport="ws"  />
+   </topic>
+   
+   <topic name="download"  fields="id" dict="id:i,uri,saveAs">
+       <pub protocol="json" />
+       <sub dest="" protocol="httpdownloader"  logLevel="DEBUG" />
+   </topic>
+
+   
+</ms>

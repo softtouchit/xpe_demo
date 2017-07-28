@@ -1,0 +1,744 @@
+<content>
+
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-question <span class="muted">[&amp;#xf128;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-question-circle <span class="muted">[&amp;#xf059;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-quote-left <span class="muted">[&amp;#xf10d;]</span>
+
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-quote-right <span class="muted">[&amp;#xf10e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-ra <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1d0;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-random <span class="muted">[&amp;#xf074;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rebel <span class="muted">[&amp;#xf1d0;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-recycle <span class="muted">[&amp;#xf1b8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-reddit <span class="muted">[&amp;#xf1a1;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-reddit-square <span class="muted">[&amp;#xf1a2;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-refresh <span class="muted">[&amp;#xf021;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-remove <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf00d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-renren <span class="muted">[&amp;#xf18b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-reorder <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0c9;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-repeat <span class="muted">[&amp;#xf01e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-reply <span class="muted">[&amp;#xf112;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-reply-all <span class="muted">[&amp;#xf122;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-retweet <span class="muted">[&amp;#xf079;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rmb <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf157;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-road <span class="muted">[&amp;#xf018;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rocket <span class="muted">[&amp;#xf135;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rotate-left <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0e2;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rotate-right <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf01e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rouble <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf158;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rss <span class="muted">[&amp;#xf09e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rss-square <span class="muted">[&amp;#xf143;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rub <span class="muted">[&amp;#xf158;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-ruble <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf158;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-rupee <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf156;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-save <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0c7;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-scissors <span class="muted">[&amp;#xf0c4;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-search <span class="muted">[&amp;#xf002;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-search-minus <span class="muted">[&amp;#xf010;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-search-plus <span class="muted">[&amp;#xf00e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-send <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1d8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-send-o <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1d9;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-share <span class="muted">[&amp;#xf064;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-share-alt <span class="muted">[&amp;#xf1e0;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-share-alt-square <span class="muted">[&amp;#xf1e1;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-share-square <span class="muted">[&amp;#xf14d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-share-square-o <span class="muted">[&amp;#xf045;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-shekel <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf20b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sheqel <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf20b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-shield <span class="muted">[&amp;#xf132;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-shopping-cart <span class="muted">[&amp;#xf07a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sign-in <span class="muted">[&amp;#xf090;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sign-out <span class="muted">[&amp;#xf08b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-signal <span class="muted">[&amp;#xf012;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sitemap <span class="muted">[&amp;#xf0e8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-skype <span class="muted">[&amp;#xf17e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-slack <span class="muted">[&amp;#xf198;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sliders <span class="muted">[&amp;#xf1de;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-slideshare <span class="muted">[&amp;#xf1e7;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-smile-o <span class="muted">[&amp;#xf118;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-soccer-ball-o <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1e3;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort <span class="muted">[&amp;#xf0dc;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-alpha-asc <span class="muted">[&amp;#xf15d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-alpha-desc <span class="muted">[&amp;#xf15e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-amount-asc <span class="muted">[&amp;#xf160;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-amount-desc <span class="muted">[&amp;#xf161;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-asc <span class="muted">[&amp;#xf0de;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-desc <span class="muted">[&amp;#xf0dd;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-down <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0dd;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-numeric-asc <span class="muted">[&amp;#xf162;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-numeric-desc <span class="muted">[&amp;#xf163;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sort-up <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0de;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-soundcloud <span class="muted">[&amp;#xf1be;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-space-shuttle <span class="muted">[&amp;#xf197;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-spinner <span class="muted">[&amp;#xf110;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-spoon <span class="muted">[&amp;#xf1b1;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-spotify <span class="muted">[&amp;#xf1bc;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-square <span class="muted">[&amp;#xf0c8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-square-o <span class="muted">[&amp;#xf096;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stack-exchange <span class="muted">[&amp;#xf18d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stack-overflow <span class="muted">[&amp;#xf16c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star <span class="muted">[&amp;#xf005;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star-half <span class="muted">[&amp;#xf089;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star-half-empty <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf123;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star-half-full <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf123;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star-half-o <span class="muted">[&amp;#xf123;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-star-o <span class="muted">[&amp;#xf006;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-steam <span class="muted">[&amp;#xf1b6;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-steam-square <span class="muted">[&amp;#xf1b7;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-step-backward <span class="muted">[&amp;#xf048;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-step-forward <span class="muted">[&amp;#xf051;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stethoscope <span class="muted">[&amp;#xf0f1;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stop <span class="muted">[&amp;#xf04d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-strikethrough <span class="muted">[&amp;#xf0cc;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stumbleupon <span class="muted">[&amp;#xf1a4;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-stumbleupon-circle <span class="muted">[&amp;#xf1a3;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-subscript <span class="muted">[&amp;#xf12c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-suitcase <span class="muted">[&amp;#xf0f2;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-sun-o <span class="muted">[&amp;#xf185;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-superscript <span class="muted">[&amp;#xf12b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-support <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1cd;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-table <span class="muted">[&amp;#xf0ce;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tablet <span class="muted">[&amp;#xf10a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tachometer <span class="muted">[&amp;#xf0e4;]</span>
+
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tag <span class="muted">[&amp;#xf02b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tags <span class="muted">[&amp;#xf02c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tasks <span class="muted">[&amp;#xf0ae;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-taxi <span class="muted">[&amp;#xf1ba;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tencent-weibo <span class="muted">[&amp;#xf1d5;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-terminal <span class="muted">[&amp;#xf120;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-text-height <span class="muted">[&amp;#xf034;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-text-width <span class="muted">[&amp;#xf035;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-th <span class="muted">[&amp;#xf00a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-th-large <span class="muted">[&amp;#xf009;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-th-list <span class="muted">[&amp;#xf00b;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-thumb-tack <span class="muted">[&amp;#xf08d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-thumbs-down <span class="muted">[&amp;#xf165;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-thumbs-o-down <span class="muted">[&amp;#xf088;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-thumbs-o-up <span class="muted">[&amp;#xf087;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-thumbs-up <span class="muted">[&amp;#xf164;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-ticket <span class="muted">[&amp;#xf145;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-times <span class="muted">[&amp;#xf00d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-times-circle <span class="muted">[&amp;#xf057;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-times-circle-o <span class="muted">[&amp;#xf05c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tint <span class="muted">[&amp;#xf043;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-down <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf150;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-left <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf191;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-off <span class="muted">[&amp;#xf204;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-on <span class="muted">[&amp;#xf205;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-right <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf152;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-toggle-up <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf151;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-trash <span class="muted">[&amp;#xf1f8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-trash-o <span class="muted">[&amp;#xf014;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tree <span class="muted">[&amp;#xf1bb;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-trello <span class="muted">[&amp;#xf181;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-trophy <span class="muted">[&amp;#xf091;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-truck <span class="muted">[&amp;#xf0d1;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-try <span class="muted">[&amp;#xf195;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tty <span class="muted">[&amp;#xf1e4;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tumblr <span class="muted">[&amp;#xf173;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-tumblr-square <span class="muted">[&amp;#xf174;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-turkish-lira <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf195;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-twitch <span class="muted">[&amp;#xf1e8;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-twitter <span class="muted">[&amp;#xf099;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-twitter-square <span class="muted">[&amp;#xf081;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-umbrella <span class="muted">[&amp;#xf0e9;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-underline <span class="muted">[&amp;#xf0cd;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-undo <span class="muted">[&amp;#xf0e2;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-university <span class="muted">[&amp;#xf19c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-unlink <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf127;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-unlock <span class="muted">[&amp;#xf09c;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-unlock-alt <span class="muted">[&amp;#xf13e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-unsorted <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf0dc;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-upload <span class="muted">[&amp;#xf093;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-usd <span class="muted">[&amp;#xf155;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-user <span class="muted">[&amp;#xf007;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-user-md <span class="muted">[&amp;#xf0f0;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-users <span class="muted">[&amp;#xf0c0;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-video-camera <span class="muted">[&amp;#xf03d;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-vimeo-square <span class="muted">[&amp;#xf194;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-vine <span class="muted">[&amp;#xf1ca;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-vk <span class="muted">[&amp;#xf189;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-volume-down <span class="muted">[&amp;#xf027;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-volume-off <span class="muted">[&amp;#xf026;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-volume-up <span class="muted">[&amp;#xf028;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-warning <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf071;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-wechat <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf1d7;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-weibo <span class="muted">[&amp;#xf18a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-weixin <span class="muted">[&amp;#xf1d7;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-wheelchair <span class="muted">[&amp;#xf193;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-wifi <span class="muted">[&amp;#xf1eb;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-windows <span class="muted">[&amp;#xf17a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-won <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf159;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-wordpress <span class="muted">[&amp;#xf19a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-wrench <span class="muted">[&amp;#xf0ad;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-xing <span class="muted">[&amp;#xf168;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-xing-square <span class="muted">[&amp;#xf169;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-yahoo <span class="muted">[&amp;#xf19e;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-yelp <span class="muted">[&amp;#xf1e9;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-yen <span class="text-muted">(alias)</span>
+ <span class="muted">[&amp;#xf157;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-youtube <span class="muted">[&amp;#xf167;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-youtube-play <span class="muted">[&amp;#xf16a;]</span>
+
+    </div>
+    <div class="col-md-4 col-sm-6 col-lg-3"> <i class="fa fa-fw"></i>
+fa-youtube-square <span class="muted">[&amp;#xf166;]</span>
+
+    </div>
+</content>

@@ -1,0 +1,31 @@
+<content>
+    <div>
+    PUT:
+    </div>
+    <pre>
+        <code class="brush: xml" id='put'/>
+    </pre>
+    
+    
+    <div>
+    GET:
+    </div>
+    <pre>
+        <code class="brush: xml" id='get'/>
+    </pre>
+    
+    <div>
+    POST:
+    </div>
+    <pre>
+        <code class="brush: xml" id='post'/>
+    </pre>
+    
+    <div>
+    DEL:
+    </div>
+    <pre>
+        <code class="brush: xml" id='del'/>
+    </pre>
+    
+</content>

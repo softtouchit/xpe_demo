@@ -1,0 +1,283 @@
+<content>
+
+<table cellpadding="5" border="1" class="src">
+    <tbody><tr>
+      <th align="left">Result</th>
+      <th align="left">Description</th>
+      <th align="left">Entity Name</th>
+ 
+      <th align="left">Number Code</th>
+ 
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>non-breaking space</td>
+      <td>&amp;nbsp;</td>
+      <td>&amp;#160;</td>
+ 
+    </tr>
+ 
+    <tr>
+      <td>&iexcl;</td>
+      <td>inverted exclamation mark</td>
+      <td>&amp;iexcl;</td>
+      <td>&amp;#161;</td>
+    </tr>
+ 
+    <tr>
+ 
+      <td>&curren;</td>
+      <td>currency</td>
+      <td>&amp;curren;</td>
+      <td>&amp;#164;</td>
+    </tr>
+    <tr>
+ 
+      <td>&cent;</td>
+ 
+      <td>cent</td>
+      <td>&amp;cent;</td>
+      <td>&amp;#162;</td>
+    </tr>
+    <tr>
+      <td>&pound;</td>
+ 
+      <td>pound</td>
+ 
+      <td>&amp;pound;</td>
+      <td>&amp;#163;</td>
+    </tr>
+    <tr>
+      <td>¥</td>
+      <td>yen</td>
+ 
+      <td>&amp;yen;</td>
+ 
+      <td>&amp;#165;</td>
+    </tr>
+    <tr>
+      <td>¦</td>
+      <td>broken vertical bar</td>
+      <td>&amp;brvbar;</td>
+ 
+      <td>&amp;#166;</td>
+ 
+    </tr>
+    <tr>
+      <td>§</td>
+      <td>section</td>
+      <td>&amp;sect;</td>
+      <td>&amp;#167;</td>
+ 
+    </tr>
+ 
+    <tr>
+      <td>¨</td>
+      <td>spacing diaeresis</td>
+      <td>&amp;uml;</td>
+      <td>&amp;#168;</td>
+    </tr>
+ 
+    <tr>
+ 
+      <td>&copy;</td>
+      <td>copyright</td>
+      <td>&amp;copy;</td>
+      <td>&amp;#169;</td>
+    </tr>
+    <tr>
+ 
+      <td>ª</td>
+ 
+      <td>feminine ordinal indicator</td>
+      <td>&amp;ordf;</td>
+      <td>&amp;#170;</td>
+    </tr>
+    <tr>
+      <td>«</td>
+ 
+      <td>angle quotation mark (left)</td>
+ 
+      <td>&amp;laquo;</td>
+      <td>&amp;#171;</td>
+    </tr>
+    <tr>
+      <td>¬</td>
+      <td>negation</td>
+ 
+      <td>&amp;not;</td>
+ 
+      <td>&amp;#172;</td>
+    </tr>
+    <tr>
+      <td>­</td>
+      <td>soft hyphen</td>
+      <td>&amp;shy;</td>
+ 
+      <td>&amp;#173;</td>
+ 
+    </tr>
+    <tr>
+      <td>&reg;</td>
+      <td>registered trademark</td>
+      <td>&amp;reg;</td>
+      <td>&amp;#174;</td>
+ 
+    </tr>
+ 
+    <tr>
+      <td>&trade;</td>
+      <td>trademark</td>
+      <td>&amp;trade;</td>
+      <td>&amp;#8482;</td>
+    </tr>
+ 
+    <tr>
+ 
+      <td>¯</td>
+      <td>spacing macron</td>
+      <td>&amp;macr;</td>
+      <td>&amp;#175;</td>
+    </tr>
+    <tr>
+ 
+      <td>°</td>
+      <td>degree</td>
+      <td>&amp;deg;</td>
+      <td>&amp;#176;</td>
+    </tr>
+    <tr>
+      <td>±</td>
+ 
+      <td>plus-or-minus&nbsp;</td>
+ 
+      <td>&amp;plusmn;</td>
+      <td>&amp;#177;</td>
+    </tr>
+    <tr>
+      <td>²</td>
+      <td>superscript 2</td>
+ 
+      <td>&amp;sup2;</td>
+ 
+      <td>&amp;#178;</td>
+    </tr>
+    <tr>
+      <td>³</td>
+      <td>superscript 3</td>
+      <td>&amp;sup3;</td>
+ 
+      <td>&amp;#179;</td>
+ 
+    </tr>
+    <tr>
+      <td>´</td>
+      <td>spacing acute</td>
+      <td>&amp;acute;</td>
+      <td>&amp;#180;</td>
+ 
+    </tr>
+ 
+    <tr>
+      <td>µ</td>
+      <td>micro</td>
+      <td>&amp;micro;</td>
+      <td>&amp;#181;</td>
+    </tr>
+ 
+    <tr>
+ 
+      <td>¶</td>
+      <td>paragraph</td>
+      <td>&amp;para;</td>
+      <td>&amp;#182;</td>
+    </tr>
+    <tr>
+ 
+      <td>·</td>
+ 
+      <td>middle dot</td>
+      <td>&amp;middot;</td>
+      <td>&amp;#183;</td>
+    </tr>
+    <tr>
+      <td>¸</td>
+ 
+      <td>spacing cedilla</td>
+ 
+      <td>&amp;cedil;</td>
+      <td>&amp;#184;</td>
+    </tr>
+    <tr>
+      <td>¹</td>
+      <td>superscript 1</td>
+ 
+      <td>&amp;sup1;</td>
+ 
+      <td>&amp;#185;</td>
+    </tr>
+    <tr>
+      <td>º</td>
+      <td>masculine ordinal indicator</td>
+      <td>&amp;ordm;</td>
+ 
+      <td>&amp;#186;</td>
+ 
+    </tr>
+    <tr>
+      <td>»</td>
+      <td>angle quotation mark (right)</td>
+      <td>&amp;raquo;</td>
+      <td>&amp;#187;</td>
+ 
+    </tr>
+ 
+    <tr>
+      <td>¼</td>
+      <td>fraction 1/4</td>
+      <td>&amp;frac14;</td>
+      <td>&amp;#188;</td>
+    </tr>
+ 
+    <tr>
+ 
+      <td>½</td>
+      <td>fraction 1/2</td>
+      <td>&amp;frac12;</td>
+      <td>&amp;#189;</td>
+    </tr>
+    <tr>
+ 
+      <td>¾</td>
+ 
+      <td>fraction 3/4</td>
+      <td>&amp;frac34;</td>
+      <td>&amp;#190;</td>
+    </tr>
+    <tr>
+      <td>¿</td>
+ 
+      <td>inverted question mark</td>
+ 
+      <td>&amp;iquest;</td>
+      <td>&amp;#191;</td>
+    </tr>
+    <tr>
+      <td>×</td>
+      <td>multiplication</td>
+ 
+      <td>&amp;times;</td>
+ 
+      <td>&amp;#215;</td>
+    </tr>
+    <tr>
+      <td>÷</td>
+      <td>division</td>
+      <td>&amp;divide;</td>
+ 
+      <td>&amp;#247;</td>
+ 
+    </tr>
+</tbody></table>
+
+</content>

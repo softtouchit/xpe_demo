@@ -1,0 +1,26 @@
+<content>
+     <h2>XPE Demo</h2>
+
+     <h3>Basic HTTP methods demo</h3>
+
+    <p><a href="methods">Click here</a> to see how to invoke each http method using the REST style.</p>
+    
+    
+     <h3>Image Service Demos</h3>
+    <p><a href="ims">Click here</a> to see how to upload, display and delete an image.</p>
+    
+    
+     <h3>Wechat Rules Demos</h3>
+    <p><a href="rules">Click here</a> to see how to add a new rule, list existing rules and delete a rule </p>
+    
+     <h2>About This Site</h2>
+
+    <p>This site is built with the XPE SiteC technologies. This site is powered by the Extreme HTTP server.</p>
+    <p>Build information:</p>
+    <ul>
+        <li>Version: 1.0.@buildNumber@</li>
+        <li>Build Date: @buildDate@</li>
+        <li>Revision: @revision@</li>
+        <li>SiteC version: @sitecVersion@</li>
+    </ul>
+</content>

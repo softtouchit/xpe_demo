@@ -1,0 +1,35 @@
+<content>
+    
+    <head>
+        <link rel="stylesheet" href="/css/bootstrap.min.css" />
+            <meta name="viewport" content="width=device-width,  initial-scale=1" />
+            <script src="js/core.js" />
+            <script src="js/docmenu.js" />
+    </head>
+    <div id="layout">
+        <div id="logo"></div>
+        <div class="container">
+            <div id="menu" class="nav">
+                <ul class="nav nav-tabs" id="tabs">
+                    <li><a href="/">Home</a>
+                    </li>
+                    <li><a href="/entities">HTML5 entities</a>
+                    </li>
+                    <li><a href="/methods">HTTP Methods</a>
+                    </li>
+                    <li><a href="/ims">XPE IMS</a>
+                    </li>
+                    <li><a href="/awardrules">Award rules</a>
+                    </li>
+                    <li><a href="/todo">TODO example</a>
+                    </li>
+                    <li><a href="/editor">Editor example</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="content" class="container"></div>
+        <div id="content2" class="container"></div>
+        <div id="footer"></div>
+    </div>
+</content>

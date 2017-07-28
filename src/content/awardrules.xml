@@ -1,0 +1,26 @@
+<content>
+
+  <h2>Award Rules management</h2>
+  
+    <div id='list'>
+    </div>
+  
+
+   <div>Server response:
+    <code id='resp'>
+    </code>
+   </div>
+    
+
+   <h3>Add a new text reply</h3>    
+   
+   <form id="text" role="form" onsubmit='X.pub("awardRule", this);return false;'>
+       <input name="name" placeholder="Name" required="true" size="50"></input> <br/>
+       <input name="event" placeholder="Event" required="true" size="50"></input> <br/>
+       <input name="score" placeholder="100" required="true" size="50"></input> <br/>
+       <button>Create rule</button>
+   </form>
+   
+   
+
+</content>

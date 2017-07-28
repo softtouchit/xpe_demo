@@ -1,0 +1,23 @@
+<content>
+
+  <div class="container" id='list'>
+  
+  </div>
+
+  <div class="ims" >
+  <p>Server response:  <code id="resp" ></code> </p>
+      <p>Image metadata: <code id="meta" ></code></p>
+      <p>Uploaded image will be shown here:</p>
+      <div id="img" ></div>
+      
+      <button id="ins" class="btn btn-default">Add predefined Image</button>
+      <button id="del" class="btn btn-default">Delete</button>
+      <button id="upload" class="btn btn-default">Upload an image</button>
+      
+      <p>Drag and drop your image here:</p>
+      <div id="drop" >
+          
+      </div>
+      
+  </div>
+</content>

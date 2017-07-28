@@ -1,0 +1,321 @@
+<site domain="dev.test" >
+    <common>
+        
+        <head>
+            <meta charset="utf-8" />
+            <link href="/css/font-awesome.css" rel="stylesheet" />
+            <title>XPE Demos</title>
+        </head>
+    </common>
+    <page template="templates/single.xml" path="">
+        
+        <head>
+            <title>XPE Demos</title>
+        </head>
+        <load href="content/aboutSite.xml" to="content" />
+    </page>
+
+    <page template="templates/single.xml" path="entities">
+        <head>
+            <title>HTML5 entities</title>
+        </head>
+        <load href="content/entities.xml" to="content" />
+    </page>
+    
+    <page template="templates/single.xml" path="form">
+        <head>
+            <title>HTML5 entities</title>
+        </head>
+        <load href="content/form.xml" to="content" />
+    </page>
+    
+    
+    <page template="templates/single.xml" path="icons">
+        <head>
+            <title>Font awesome icons</title>
+        </head>
+        <load href="content/fa.xml" to="content" />
+        <load href="content/fa2.xml" to="content2" />
+    </page>
+    
+    <page template="templates/todo.xml" path="todo">
+        
+        <head>
+            <link href="/css/todo.css" rel="stylesheet" type="text/css" media="all" />
+            <combine>
+            <script src="/js/core.js" />
+            <script src="/js/todo.js" />
+            </combine>
+        </head>
+    </page>
+    <page template="templates/single.xml" path="methods">
+        
+        <head>
+            <link rel="stylesheet" href="css/default.css" />
+            <script src="js/methods.js" />
+            <title>XPE Demos - HTTP methods</title>
+        </head>
+        <load href="content/methods.xml" to="content" />
+    </page>
+    
+    
+    <page template="templates/single.xml" path="utf8">
+        
+        <head>
+            <link rel="stylesheet" href="css/default.css" />
+            <script src="js/toUTF.js" />
+            <title>XPE Demos - to UTF8</title>
+        </head>
+        <load href="content/toUTF8.xml" to="content" />
+    </page>
+    
+    <page template="templates/single.xml" path="editor">
+        
+        <head>
+            <link rel="stylesheet" href="css/default.css" />
+            <link rel="stylesheet" href="css/editor.css" />
+            <combine>
+            <script src="js/editor.js" />
+            <script src="js/editorDemo.js" />
+            <script src="js/beautify-html.js" />
+            </combine>
+            <title>XPE Demos - HTTP methods</title>
+        </head>
+        <load href="content/articles.xml" to="content" />
+    </page>
+    
+    <page template="templates/single.xml" path="ims">
+        
+        <head>
+            <link rel="stylesheet" href="css/ims.css" />
+            <link rel="stylesheet" href="css/dialog.css" />
+            <combine>
+            <script src="js/imageSelector.js" />
+            <script src="js/dialog.js" />
+            <script src="js/list.js" />
+            <script src="js/ims.js" />
+            </combine>
+            <title>XPE Demos - Image services</title>
+        </head>
+        <load href="content/ims.xml" to="content" />
+    </page>
+    
+    <page template="templates/single.xml" path="upload">
+        
+        <head>
+            <link rel="stylesheet" href="css/ims.css" />
+            <link rel="stylesheet" href="css/dialog.css" />
+            <script src="js/uploader.js" />
+            <script src="js/dialog.js" />
+            <script src="js/list.js" />
+            <script src="js/upload.js" />
+            <title>XPE Demos - Uploading services</title>
+        </head>
+        <load href="content/upload.xml" to="content" />
+    </page>
+    
+    
+    <page template="templates/single.xml" path="modal">
+        <head>
+            <link rel="stylesheet" href="css/ims.css" />
+            <link rel="stylesheet" href="css/login.css" />
+            <script src="js/jquery.min.js" />
+            <script src="js/bootstrap.js" />
+            <title>XPE Demos - Image services</title>
+        </head>
+        <load href="content/modal.xml" to="content" />
+    </page>
+    <page template="templates/single.xml" path="awardrules">
+        
+        <head>
+            <script src="js/awardrules.js" />
+            <title>XPE Demos - award Rules management</title>
+        </head>
+        <load href="content/awardrules.xml" to="content" />
+    </page>
+    <page template="templates/single.xml" path="rules">
+        
+        <head>
+            <script src="js/rules.js" />
+            <title>XPE Demos - Rules management</title>
+        </head>
+        <load href="content/rules.xml" to="content" />
+    </page>
+    <page template="templates/bootstrap.xml" path="bootstrap">
+        
+        <head>
+            <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+            <link href="/css/starter.css" rel="stylesheet" type="text/css" media="all" />
+            <script src="js/core.js" />
+            <script src="js/rules.js" />
+            <title>XPE Demos - Rules management</title>
+        </head>
+        <override href="content/bootstrap.xml" to="content" />
+    </page>
+    <resources dir="css" path="css" />
+    <resources dir="js" path="js" />
+    <resources dir="fonts" path="fonts" />
+    <services>
+        <service path="echo">
+            <get xpipe="http://www.xml.org/pipe/xpe/poj/echo" />
+            <post xpipe="http://www.xml.org/pipe/xpe/poj/echo" />
+            <put xpipe="http://www.xml.org/pipe/xpe/poj/echo" />
+            <del xpipe="http://www.xml.org/pipe/xpe/poj/echo" />
+        </service>
+        <service path="image" dict="cf">
+            <get xpipe="http://www.xmlpipe.org/xpe/ims/get" notify="http://www.xmlpipe.org/xpe/ims/resized" />
+            <del xpipe="http://www.xmlpipe.org/xpe/ims/del" />
+            <async name="resize" xpipe="http://www.xmlpipe.org/xpe/ims/resize" />
+            <get path="images" xpipe="http://www.xmlpipe.org/xpe/ims/search" />
+            <post path="images" xpipe="http://www.xmlpipe.org/xpe/ims/update" />
+        </service>
+        
+        <service store="books.db" storeType="binary" primaryKey="id" fields="id,subject,status,bookID" dict="id,subject,status,bookID,center,lastUpdated:t">
+            <get path="/json/book" xpipe="http://www.xmlpipe.org/xpe/db/unique/record/get" />
+            <post path="/json/books" xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+            <get path="/json/books" xpipe="http://www.xmlpipe.org/xpe/db/search"  />
+        </service>
+        
+        <webSocket path="books/ws" protocol="dbsync" xpipe="http://www.xmlpipe.org/xpe/ms/record" dbProvider="books.db"/> 
+        <webSocket path="ws" protocol="chat" xpipe="http://www.xml.org/pipe/xpe/ws/echo" /> 
+        
+        
+        <service store="blocks.db" storeType="binary" primaryKey="id" fields="id,title,body" dict="id,title,body">
+            <get path="/json/block" xpipe="http://www.xmlpipe.org/xpe/db/unique/record/get" />
+            <post path="/json/blocks" xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+            <get path="/json/blocks" xpipe="http://www.xmlpipe.org/xpe/db/search" mask="id,title,body" />
+        </service>
+        
+        <service path="/forms"  store="forms.db" >
+            <post  xpipe="http://www.xmlpipe.org/xpe/ms/request" />
+            <get   xpipe="http://www.xmlpipe.org/xpe/ms/request" />
+            <webSocket path="forms/req/ws" protocol="dbsync" xpipe="http://www.xmlpipe.org/xpe/ms/record" />
+        </service>
+        
+        <webSocket path="forms/resp/ws" protocol="dbsync" xpipe="http://www.xmlpipe.org/xpe/ms/record/response"  store="formsResponses.db" />
+        
+        
+        <!--award rules -->
+        <!--wechat services -->
+        <service token="test" openId="xxxxed" corpid="wxxxed7" corpsecret="xxed" encodingAESKey="1234567890123456789012345678901234567890123"> 
+            <!--used by wechat server to post events -->
+            <post path="/wechat" xpipe="http://www.xmlpipe.org/xpe/wechat/notify" notify="http://www.xmlpipe.org/xpe/wechat/updateUser" />
+            <get path="/wechat" xpipe="http://www.xmlpipe.org/xpe/wechat/verify" />
+            <!--you can search by MsgId,FromUserName,MsgType,Event,EventKey -->
+            <get path="/json/event" xpipe="http://www.xmlpipe.org/xpe/wechat/event/get" store="eventStore.db" />
+            <!--User info store -->
+            <get path="/json/userinfo" xpipe="http://www.xmlpipe.org/xpe/wechat/userinfo/get" />
+            <del path="/json/userinfo" xpipe="http://www.xmlpipe.org/xpe/wechat/userinfo/del" />
+            <get path="/json/userinfo/search" xpipe="http://www.xmlpipe.org/xpe/wechat/userinfo/search" />
+            
+            
+            
+            <get path="/qr" xpipe="http://www.xmlpipe.org/xpe/wechat/qr" notify="http://www.xmlpipe.org/xpe/wechat/qr/notify" />
+            <async name="qrcode" xpipe="http://www.xmlpipe.org/xpe/wechat/qr/backend" />
+            
+            <!-- XPE upload service -->
+            <post path="/upload" xpipe="http://www.xmlpipe.org/xpe/ims/upload" />
+            
+            <get path="/sns" xpipe="http://www.xmlpipe.org/xpe/wechat/sns" notify="http://www.xmlpipe.org/xpe/wechat/direct/notify" />
+            <async name="sns" xpipe="http://www.xmlpipe.org/xpe/wechat/sns/backend" />
+
+            <get path="/jsapi" xpipe="http://www.xmlpipe.org/xpe/wechat/jsapi" notify="http://www.xmlpipe.org/xpe/wechat/direct/notify" />
+            <async name="jsapi" xpipe="http://www.xmlpipe.org/xpe/wechat/jsapi/backend" />
+
+            
+            <post path="/groups/update" xpipe="http://www.xmlpipe.org/xpe/wechat/groups" notify="http://www.xmlpipe.org/xpe/wechat/direct/notify" />
+            <post path="/groups/create" xpipe="http://www.xmlpipe.org/xpe/wechat/groups" notify="http://www.xmlpipe.org/xpe/wechat/direct/notify" />
+            <get path="/groups/get" xpipe="http://www.xmlpipe.org/xpe/wechat/groups" notify="http://www.xmlpipe.org/xpe/wechat/direct/notify" />
+            <async name="groups" xpipe="http://www.xmlpipe.org/xpe/wechat/groups/backend" />
+            
+            
+            <!--this one must be declared first -->
+            <async name="updateAccount" xpipe="http://www.xmlpipe.org/xpe/wechat/updateAccount" />
+            <get path="/wechat/account" xpipe="http://www.xmlpipe.org/xpe/wechat/accounts/get" />
+            <del path="/wechat/account" xpipe="http://www.xmlpipe.org/xpe/wechat/accounts/del" />
+            <post path="/wechat/accounts" xpipe="http://www.xmlpipe.org/xpe/wechat/accounts/update" />
+            <get path="/wechat/accounts" xpipe="http://www.xmlpipe.org/xpe/wechat/accounts/search"  />
+            
+            
+            <!-- this pipe must be placed first -->
+            <get path="/wechat/reply/rule" xpipe="http://www.xmlpipe.org/xpe/wechat/rules/get" />
+            <post path="/wechat/reply/rules" xpipe="http://www.xmlpipe.org/xpe/wechat/rules/update" />
+            <get path="/wechat/reply/rules" xpipe="http://www.xmlpipe.org/xpe/wechat/rules/search" />
+            <post path="/menu" xpipe="http://www.xmlpipe.org/xpe/wechat/menu" />
+            <!-- award rules -->
+            <post path="/wechat/awardrules" xpipe="http://www.xmlpipe.org/xpe/wechat/awardrules/update" />
+            <get path="/wechat/awardrule" xpipe="http://www.xmlpipe.org/xpe/wechat/awardrules/get" /><del path="/wechat/awardrule" xpipe="http://www.xmlpipe.org/xpe/wechat/awardrules/del" />
+            <get path="/wechat/awardrules" xpipe="http://www.xmlpipe.org/xpe/wechat/awardrules/search" />
+            <!-- backend services -->
+            <async name="getuser" xpipe="http://www.xmlpipe.org/xpe/wechat/getUser" />
+            <async name="send" xpipe="http://www.xmlpipe.org/xpe/wechat/send" />
+            <async name="createMenu" xpipe="http://www.xmlpipe.org/xpe/wechat/createMenu" />
+        </service>
+        
+                <!--assign user 'test' to group 1, the staff group -->
+        <service path="/user" userdb="users.db" root="haohe" assignGroup="admin_01:1">
+            <get xpipe="http://www.xmlpipe.org/xpe/db/user/validate" />
+            <post xpipe="http://www.xmlpipe.org/xpe/db/user/register" />
+        </service>
+        
+        
+        
+
+        <!-- first we define a backend MS link using websocket, the name is required to identify this link -->
+
+        <webSocket path="req/ws" xpipe="http://www.xmlpipe.org/xpe/ms/http" name="ms"/>
+
+        <!-- We now redirect POST/GET requests to /fomrs to the above web socket using the sendTo attribute -->
+
+        <service path="/forms"  sendTo="ms">
+            <post  xpipe="http://www.xmlpipe.org/xpe/ms/http/request" />
+            <get   xpipe="http://www.xmlpipe.org/xpe/ms/http/request" />
+        </service>
+        
+        
+        <!-- Here we define another backend MS link to process batch upload -->
+        
+        <webSocket path="batch/ws" xpipe="http://www.xmlpipe.org/xpe/ms/http" name="batch"/>
+        
+
+        <service path="/tests"  store="test.db"  dict="id:i,body,created:t,js:J" fields="id" primaryKey="id">
+             <post  xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+             <post  xpipe="http://www.xmlpipe.org/xpe/ms/http/request" sendTo="batch" configs='test' />
+             <webSocket path="ws/tests" xpipe="http://www.xmlpipe.org/xpe/ms/record" />
+             <get xpipe="http://www.xmlpipe.org/xpe/db/search" />
+             <get path="/tests/ms"  xpipe="http://www.xmlpipe.org/xpe/ms/http/request" sendTo="batch" configs='test' />
+        </service>
+
+        <service path="toutf8" >
+            <post xpipe="http://www.xmlpipe.org/xpe/db/toutf8" />
+        </service> 
+        
+        <service path="static/*" dir="static">
+            <get xpipe="http://www.xmlpipe.org/xpe/ims/static" />
+        </service>        
+        
+        
+        
+        <service path="/db1"  store="db1.db"  dict="id:i,name" fields="id" primaryKey="id" seqKey="true">
+             <post  xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+             <webSocket path="ws/db1" xpipe="http://www.xmlpipe.org/xpe/ms/record"  />
+             <get xpipe="http://www.xmlpipe.org/xpe/db/search" />
+        </service>     
+        
+        <service path="/db2"  store="db2.db"  dict="id:i,name" fields="id" primaryKey="id" seqKey="true">
+             <post  xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+             <webSocket path="ws/db2" xpipe="http://www.xmlpipe.org/xpe/ms/record"  />
+             <get xpipe="http://www.xmlpipe.org/xpe/db/search" />
+        </service>     
+        
+        <service path="/db"  store="db.db"  dict="id:i,name" fields="id" primaryKey="id" >
+             <post  xpipe="http://www.xmlpipe.org/xpe/db/unique/record/post" />
+             <webSocket path="ws/db" xpipe="http://www.xmlpipe.org/xpe/ms/record"  />
+             <get xpipe="http://www.xmlpipe.org/xpe/db/search" />
+        </service>     
+        
+     
+
+        
+    </services>
+</site>

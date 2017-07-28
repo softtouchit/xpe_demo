@@ -1,0 +1,12 @@
+#drop {
+    margin:10px;
+    width:200px;
+    height:200px;
+    border: solid 1px #eee;
+} 
+
+
+#drop:hover {
+    border: solid 1px red;
+
+}

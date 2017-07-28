@@ -1,0 +1,13 @@
+<content>
+
+  <div class="container" id='list'>
+  
+  </div>
+
+  <div class="ims" >
+  
+  <p>Server response:  <code id="resp" ></code> </p>
+      <button id="upload" class="btn btn-default">Upload a file</button>
+      
+  </div>
+</content>

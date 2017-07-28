@@ -1,0 +1,22 @@
+<content>
+
+  <h2>Rules management</h2>
+
+    <div id='request'>
+        Rules defined here.
+    </div>
+    
+    <button id='send' >send</button>
+
+   <h3>Add a new text reply</h3>    
+   
+   <form id="text" >
+       <input name="event" placeholder="Event" required="true" size="50"></input> <br/>
+       <input name="keyword" placeholder="keyword" required="true" size="50"></input> <br/>
+       <textarea cols="50" rows="10" name="reply" required="true"></textarea> <br/>
+       <button>Create rule</button>
+   </form>
+   
+   
+
+</content>

@@ -1,0 +1,9 @@
+<content>
+
+  <form id='form'>
+        <textarea class="wrap about-info" id="team" data-toggle="editor" data-remote="/json/articles" placeholder="write comments" >
+        </textarea>
+      <button  tyep="submit">Submit</button>
+  </form>
+
+</content>

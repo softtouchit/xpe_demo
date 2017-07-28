@@ -1,0 +1,7 @@
+<content>
+  <form action="/forms" method="post" >
+      <input name="token" value="AAABVSqhZJ0B.m+VG2h017zF+TYyG11xlaGydXlyha0/H7J0iV/ExtzMdwBvMclJKPjBP8NlnX1v1HV3DU7RRsOO6XL8cMMgwmQq+PypMQE9awQOKP1fL6gcIvWGc1vNsmo9kSG78U8ILXtoCK2ZzfRe124luXTU8evT5W8bvT3EuwNALK5s6OBQ=.IHZTXxANt4kwQ+9M50lC87uzqfB1E1di85wS5wTRFCc=" />
+      <input name="redirectTo" value="http://google.com" />
+      <button>Submit</button>
+  </form>
+</content>

@@ -1,0 +1,21 @@
+<ms domain="mdb">
+    <topic name='db1'>
+        <pub src='ws/db1' protocol='dblog' transport="ws" />
+         <sub dest="merge" protocol="json"  />  
+    </topic>
+    
+    <topic name='db2'>
+        <pub src='ws/db2' protocol='dblog' transport="ws" />
+         <sub dest="merge" protocol="json"  /> 
+    </topic>
+    
+    <mapReduce name="merge">
+      <processor src="merge.js" />
+    </mapReduce>
+
+    <topic name='db' >
+        <pub src="merge" protocol="json"  />
+        <sub dest='ws/db' protocol='dblog' transport="ws" />
+    </topic>
+
+</ms>
